@@ -1,5 +1,5 @@
 Распараллелить задание от 09_04</br>
-![Результат](https://raw.githubusercontent.com/LordGuin/Practice/main/10.04/result.mp4)</br>
+Результат: result.mp4</br>
 Без параллельности программа выполнялась:</br>
 
 ![Результат2](https://raw.githubusercontent.com/LordGuin/Practice/main/10.04/withoutMultithreading.jpg)</br>
