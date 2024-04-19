@@ -8,4 +8,4 @@
     6. Визуализация;</br>
     7. Завершение.</br>
 Результат работы программы:</br>
-![Res]()
+![Результат](https://raw.githubusercontent.com/LordGuin/Practice/main/03.04/fractal_image.png)

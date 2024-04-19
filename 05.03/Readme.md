@@ -2,5 +2,9 @@
 2. Разрезать картинку на 4 части и вывести.
 Также попробовать использование маски в форме любой фигуры на картинке.
 
+Входное изображение:
+![Результат1](https://raw.githubusercontent.com/LordGuin/Practice/main/05.03/kotik.jpg)</br>
+
 Результат работы: 
-![Res]()
+![Результат2(https://raw.githubusercontent.com/LordGuin/Practice/main/05.03/2.jpg)
+
