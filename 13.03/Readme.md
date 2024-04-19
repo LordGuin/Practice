@@ -1,4 +1,4 @@
 Написать программу, которая будет читать строки из файла между потоками с использованием директивы omp parallel for.</br>
 Вывести наиболее часто встречающиеся слова и их количетсво в тексте.</br>
 Результат выполнения:</br>
-![Res](![Результат2](https://raw.githubusercontent.com/LordGuin/Practice/main/13.03/13.jpg)</br>)
+![Результат](https://raw.githubusercontent.com/LordGuin/Practice/main/13.03/13.jpg)</br>)
