@@ -5,6 +5,6 @@
 ![Результат1](https://raw.githubusercontent.com/LordGuin/Practice/main/20.03/car.jpg)</br>
 Результат работы:
 ![Результат2](https://raw.githubusercontent.com/LordGuin/Practice/main/20.03/1.jpg)</br>
-![Результат3](https://raw.githubusercontent.com/LordGuin/Practice/main/20.03/1.jpg)</br>
-![Результат4](https://raw.githubusercontent.com/LordGuin/Practice/main/20.03/1.jpg)</br>
-![Результат5](https://raw.githubusercontent.com/LordGuin/Practice/main/20.03/1.jpg)</br>
+![Результат3](https://raw.githubusercontent.com/LordGuin/Practice/main/20.03/2.jpg)</br>
+![Результат4](https://raw.githubusercontent.com/LordGuin/Practice/main/20.03/3.jpg)</br>
+![Результат5](https://raw.githubusercontent.com/LordGuin/Practice/main/20.03/4.jpg)</br>
