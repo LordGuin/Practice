@@ -1,0 +1,15 @@
+Counter without using mutex: 5570
+Counter with using mutex: 10000
+
+Counter without using mutex: 5547
+Counter with using mutex: 10000
+
+Counter without using mutex: 6381
+Counter with using mutex: 10000
+
+Counter without using mutex: 6961
+Counter with using mutex: 10000
+
+Counter without using mutex: 5689
+Counter with using mutex: 10000
+
