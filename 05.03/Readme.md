@@ -6,5 +6,5 @@
 ![Результат1](https://raw.githubusercontent.com/LordGuin/Practice/main/05.03/kotik.jpg)</br>
 
 Результат работы: 
-![Результат2(https://raw.githubusercontent.com/LordGuin/Practice/main/05.03/2.jpg)
+![Результат2](https://raw.githubusercontent.com/LordGuin/Practice/main/05.03/2.jpg)
 
